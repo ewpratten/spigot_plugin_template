@@ -76,7 +76,7 @@ dependencies {
 
    
     // https://mvnrepository.com/artifact/commons-io/commons-io
-    compileOnly group: 'commons-io', name: 'commons-io', version: '2.8.0'
+    compileOnly group: 'commons-io', name: 'commons-io', version: '2.11.0'
 
     // JSON handler
     implementation 'com.google.code.gson:gson:2.8.6'
